@@ -1,0 +1,90 @@
+{"url": "http://cn3.manhoo.cn/hls/20190122/54ef3e720770230c4340ace6e22672f9/1548163657/index.m3u8 " , "name": "1. 第1集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190122/320121c9a60c135d731da15bb343b1f5/1548163891/index.m3u8 " , "name": "2. 第2集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190122/beda8770a256dc62b4061866f569c5e1/1548164383/index.m3u8 " , "name": "3. 第3集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190122/ee4d49939720fc1f9bae7b64d31bc928/1548164703/index.m3u8 " , "name": "4. 第4集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190122/f3a4fdbc1810400665eed2a03d2d5983/1548164950/index.m3u8 " , "name": "5. 第5集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190122/b2188979b31783676e0d4be012600a36/1548168954/index.m3u8 " , "name": "6. 第6集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190123/64146ef1e633dacf75896869f38fcad4/1548177397/index.m3u8 " , "name": "7. 第7集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190123/eadb8b371ea3316d7e68e8f4280c7acc/1548177512/index.m3u8 " , "name": "8. 第8集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190123/3d719b0edafa2f35e85c62d68b0f5660/1548177670/index.m3u8 " , "name": "9. 第9集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190122/9981d3332e1793f22621abde7b068920/1548165195/index.m3u8 " , "name": "10. 第10集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190122/1acfab70afac26260a45f1e2fd609731/1548170335/index.m3u8 " , "name": "11. 第11集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190122/a530f1f97856cabc5bb067f0d7dbd8a8/1548169548/index.m3u8 " , "name": "12. 第12集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190122/a00fa21b0d6bfc868d2b066998bf8685/1548169778/index.m3u8 " , "name": "13. 第13集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190122/351afaee52e9c575f2076a90bae52d5b/1548169948/index.m3u8 " , "name": "14. 第14集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190122/efd03e17a3ba8a6b1fa9cd95cc49edba/1548170139/index.m3u8 " , "name": "15. 第15集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190122/2084593ce1542ab6720127d00c21e958/1548169163/index.m3u8 " , "name": "16. 第16集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190123/c33d352e2b160892337a693503ee7c8e/1548175143/index.m3u8 " , "name": "17. 第17集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190123/435c789cdba1e4eee4d979ab25bb56b9/1548175308/index.m3u8 " , "name": "18. 第18集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190123/cc0554e89a0866524f196542bb7195b7/1548175473/index.m3u8 " , "name": "19. 第19集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190123/6f3829cb103d1c0da0068e59bd98c42e/1548175636/index.m3u8 " , "name": "20. 第20集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190123/30599259de27814a255a8b1a0671498b/1548175799/index.m3u8 " , "name": "21. 第21集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190123/b4c87e95f075843e457f50cd873dc0c2/1548175967/index.m3u8 " , "name": "22. 第22集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190123/1225b6a3ecd0f89e4f5c1f42ac560781/1548176125/index.m3u8 " , "name": "23. 第23集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190123/434dc703af3af91938270d0ec6db0cf7/1548176286/index.m3u8 " , "name": "24. 第24集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190123/0c8c0c4891139ed3505ada4b73dd54c7/1548176447/index.m3u8 " , "name": "25. 第25集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190123/afba7b4254d847a4391323fc76a57b2d/1548176609/index.m3u8 " , "name": "26. 第26集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190123/1aee83c95eeeed0c9a44bddea241fa75/1548176770/index.m3u8 " , "name": "27. 第27集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190123/354470c3794fc0cbe6484af7b4fde0cf/1548176930/index.m3u8 " , "name": "28. 第28集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190123/3f94aed8f1ca89ede51646e6ad8f1210/1548177092/index.m3u8 " , "name": "29. 第29集神探卫斯理 "},
+{"url": "http://cn3.manhoo.cn/hls/20190123/227d37ba4da85a9cc15089907f876c9f/1548177250/index.m3u8 " , "name": "30. 第30集神探卫斯理 "},
+<m  src="http://cn3.manhoo.cn/hls/20190122/54ef3e720770230c4340ace6e22672f9/1548163657/index.m3u8 " label="31. 第1集" />
+<m  src="http://cn3.manhoo.cn/hls/20190122/320121c9a60c135d731da15bb343b1f5/1548163891/index.m3u8 " label="32. 第2集" />
+<m  src="http://cn3.manhoo.cn/hls/20190122/beda8770a256dc62b4061866f569c5e1/1548164383/index.m3u8 " label="33. 第3集" />
+<m  src="http://cn3.manhoo.cn/hls/20190122/ee4d49939720fc1f9bae7b64d31bc928/1548164703/index.m3u8 " label="34. 第4集" />
+<m  src="http://cn3.manhoo.cn/hls/20190122/f3a4fdbc1810400665eed2a03d2d5983/1548164950/index.m3u8 " label="35. 第5集" />
+<m  src="http://cn3.manhoo.cn/hls/20190122/b2188979b31783676e0d4be012600a36/1548168954/index.m3u8 " label="36. 第6集" />
+<m  src="http://cn3.manhoo.cn/hls/20190123/64146ef1e633dacf75896869f38fcad4/1548177397/index.m3u8 " label="37. 第7集" />
+<m  src="http://cn3.manhoo.cn/hls/20190123/eadb8b371ea3316d7e68e8f4280c7acc/1548177512/index.m3u8 " label="38. 第8集" />
+<m  src="http://cn3.manhoo.cn/hls/20190123/3d719b0edafa2f35e85c62d68b0f5660/1548177670/index.m3u8 " label="39. 第9集" />
+<m  src="http://cn3.manhoo.cn/hls/20190122/9981d3332e1793f22621abde7b068920/1548165195/index.m3u8 " label="40. 第10集" />
+<m  src="http://cn3.manhoo.cn/hls/20190122/1acfab70afac26260a45f1e2fd609731/1548170335/index.m3u8 " label="41. 第11集" />
+<m  src="http://cn3.manhoo.cn/hls/20190122/a530f1f97856cabc5bb067f0d7dbd8a8/1548169548/index.m3u8 " label="42. 第12集" />
+<m  src="http://cn3.manhoo.cn/hls/20190122/a00fa21b0d6bfc868d2b066998bf8685/1548169778/index.m3u8 " label="43. 第13集" />
+<m  src="http://cn3.manhoo.cn/hls/20190122/351afaee52e9c575f2076a90bae52d5b/1548169948/index.m3u8 " label="44. 第14集" />
+<m  src="http://cn3.manhoo.cn/hls/20190122/efd03e17a3ba8a6b1fa9cd95cc49edba/1548170139/index.m3u8 " label="45. 第15集" />
+<m  src="http://cn3.manhoo.cn/hls/20190122/2084593ce1542ab6720127d00c21e958/1548169163/index.m3u8 " label="46. 第16集" />
+<m  src="http://cn3.manhoo.cn/hls/20190123/c33d352e2b160892337a693503ee7c8e/1548175143/index.m3u8 " label="47. 第17集" />
+<m  src="http://cn3.manhoo.cn/hls/20190123/435c789cdba1e4eee4d979ab25bb56b9/1548175308/index.m3u8 " label="48. 第18集" />
+<m  src="http://cn3.manhoo.cn/hls/20190123/cc0554e89a0866524f196542bb7195b7/1548175473/index.m3u8 " label="49. 第19集" />
+<m  src="http://cn3.manhoo.cn/hls/20190123/6f3829cb103d1c0da0068e59bd98c42e/1548175636/index.m3u8 " label="50. 第20集" />
+<m  src="http://cn3.manhoo.cn/hls/20190123/30599259de27814a255a8b1a0671498b/1548175799/index.m3u8 " label="51. 第21集" />
+<m  src="http://cn3.manhoo.cn/hls/20190123/b4c87e95f075843e457f50cd873dc0c2/1548175967/index.m3u8 " label="52. 第22集" />
+<m  src="http://cn3.manhoo.cn/hls/20190123/1225b6a3ecd0f89e4f5c1f42ac560781/1548176125/index.m3u8 " label="53. 第23集" />
+<m  src="http://cn3.manhoo.cn/hls/20190123/434dc703af3af91938270d0ec6db0cf7/1548176286/index.m3u8 " label="54. 第24集" />
+<m  src="http://cn3.manhoo.cn/hls/20190123/0c8c0c4891139ed3505ada4b73dd54c7/1548176447/index.m3u8 " label="55. 第25集" />
+<m  src="http://cn3.manhoo.cn/hls/20190123/afba7b4254d847a4391323fc76a57b2d/1548176609/index.m3u8 " label="56. 第26集" />
+<m  src="http://cn3.manhoo.cn/hls/20190123/1aee83c95eeeed0c9a44bddea241fa75/1548176770/index.m3u8 " label="57. 第27集" />
+<m  src="http://cn3.manhoo.cn/hls/20190123/354470c3794fc0cbe6484af7b4fde0cf/1548176930/index.m3u8 " label="58. 第28集" />
+<m  src="http://cn3.manhoo.cn/hls/20190123/3f94aed8f1ca89ede51646e6ad8f1210/1548177092/index.m3u8 " label="59. 第29集" />
+<m  src="http://cn3.manhoo.cn/hls/20190123/227d37ba4da85a9cc15089907f876c9f/1548177250/index.m3u8 " label="60. 第30集" />
+<m label="61.第1集"  src="http://cn3.manhoo.cn/hls/20190122/54ef3e720770230c4340ace6e22672f9/1548163657/index.m3u8"/>
+<m label="62.第2集"  src="http://cn3.manhoo.cn/hls/20190122/320121c9a60c135d731da15bb343b1f5/1548163891/index.m3u8"/>
+<m label="63.第3集"  src="http://cn3.manhoo.cn/hls/20190122/beda8770a256dc62b4061866f569c5e1/1548164383/index.m3u8"/>
+<m label="64.第4集"  src="http://cn3.manhoo.cn/hls/20190122/ee4d49939720fc1f9bae7b64d31bc928/1548164703/index.m3u8"/>
+<m label="65.第5集"  src="http://cn3.manhoo.cn/hls/20190122/f3a4fdbc1810400665eed2a03d2d5983/1548164950/index.m3u8"/>
+<m label="66.第6集"  src="http://cn3.manhoo.cn/hls/20190122/b2188979b31783676e0d4be012600a36/1548168954/index.m3u8"/>
+<m label="67.第7集"  src="http://cn3.manhoo.cn/hls/20190123/64146ef1e633dacf75896869f38fcad4/1548177397/index.m3u8"/>
+<m label="68.第8集"  src="http://cn3.manhoo.cn/hls/20190123/eadb8b371ea3316d7e68e8f4280c7acc/1548177512/index.m3u8"/>
+<m label="69.第9集"  src="http://cn3.manhoo.cn/hls/20190123/3d719b0edafa2f35e85c62d68b0f5660/1548177670/index.m3u8"/>
+<m label="70.第10集"  src="http://cn3.manhoo.cn/hls/20190122/9981d3332e1793f22621abde7b068920/1548165195/index.m3u8"/>
+<m label="71.第11集"  src="http://cn3.manhoo.cn/hls/20190122/1acfab70afac26260a45f1e2fd609731/1548170335/index.m3u8"/>
+<m label="72.第12集"  src="http://cn3.manhoo.cn/hls/20190122/a530f1f97856cabc5bb067f0d7dbd8a8/1548169548/index.m3u8"/>
+<m label="73.第13集"  src="http://cn3.manhoo.cn/hls/20190122/a00fa21b0d6bfc868d2b066998bf8685/1548169778/index.m3u8"/>
+<m label="74.第14集"  src="http://cn3.manhoo.cn/hls/20190122/351afaee52e9c575f2076a90bae52d5b/1548169948/index.m3u8"/>
+<m label="75.第15集"  src="http://cn3.manhoo.cn/hls/20190122/efd03e17a3ba8a6b1fa9cd95cc49edba/1548170139/index.m3u8"/>
+<m label="76.第16集"  src="http://cn3.manhoo.cn/hls/20190122/2084593ce1542ab6720127d00c21e958/1548169163/index.m3u8"/>
+<m label="77.第17集"  src="http://cn3.manhoo.cn/hls/20190123/c33d352e2b160892337a693503ee7c8e/1548175143/index.m3u8"/>
+<m label="78.第18集"  src="http://cn3.manhoo.cn/hls/20190123/435c789cdba1e4eee4d979ab25bb56b9/1548175308/index.m3u8"/>
+<m label="79.第19集"  src="http://cn3.manhoo.cn/hls/20190123/cc0554e89a0866524f196542bb7195b7/1548175473/index.m3u8"/>
+<m label="80.第20集"  src="http://cn3.manhoo.cn/hls/20190123/6f3829cb103d1c0da0068e59bd98c42e/1548175636/index.m3u8"/>
+<m label="81.第21集"  src="http://cn3.manhoo.cn/hls/20190123/30599259de27814a255a8b1a0671498b/1548175799/index.m3u8"/>
+<m label="82.第22集"  src="http://cn3.manhoo.cn/hls/20190123/b4c87e95f075843e457f50cd873dc0c2/1548175967/index.m3u8"/>
+<m label="83.第23集"  src="http://cn3.manhoo.cn/hls/20190123/1225b6a3ecd0f89e4f5c1f42ac560781/1548176125/index.m3u8"/>
+<m label="84.第24集"  src="http://cn3.manhoo.cn/hls/20190123/434dc703af3af91938270d0ec6db0cf7/1548176286/index.m3u8"/>
+<m label="85.第25集"  src="http://cn3.manhoo.cn/hls/20190123/0c8c0c4891139ed3505ada4b73dd54c7/1548176447/index.m3u8"/>
+<m label="86.第26集"  src="http://cn3.manhoo.cn/hls/20190123/afba7b4254d847a4391323fc76a57b2d/1548176609/index.m3u8"/>
+<m label="87.第27集"  src="http://cn3.manhoo.cn/hls/20190123/1aee83c95eeeed0c9a44bddea241fa75/1548176770/index.m3u8"/>
+<m label="88.第28集"  src="http://cn3.manhoo.cn/hls/20190123/354470c3794fc0cbe6484af7b4fde0cf/1548176930/index.m3u8"/>
+<m label="89.第29集"  src="http://cn3.manhoo.cn/hls/20190123/3f94aed8f1ca89ede51646e6ad8f1210/1548177092/index.m3u8"/>
+<m label="90.第30集"  src="http://cn3.manhoo.cn/hls/20190123/227d37ba4da85a9cc15089907f876c9f/1548177250/index.m3u8"/>
